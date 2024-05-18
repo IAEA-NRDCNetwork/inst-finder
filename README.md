@@ -13,4 +13,4 @@ Place all files in one folder and run it by
 
 **Reference**
 
-Naohiko Otuka, "INST-FINDER", [Report IAEA-NDS-0240](https://nds.iaea.org/publications/nds/iaea-nds-0240/), International Atomic Energy Agency, 2024.
+Naohiko Otuka, "INST-FINDER (Utility for EXFOR INSTITUTE coding)", [Report IAEA-NDS-0240](https://nds.iaea.org/publications/nds/iaea-nds-0240/), International Atomic Energy Agency, 2024.
