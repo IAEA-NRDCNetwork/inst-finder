@@ -1,0 +1,15 @@
+2ZZZBIP 2FR  Bureau International des Poids et Mesures, Sevres
+2ZZZDGE 2BLG EURATOM, Bruxelles
+2ZZZEC  2BLG European Commission
+2ZZZESR 2FR  The European Synchrotron Radiation Facility, Grenoble
+2ZZZGEL 2BLG EC Joint Research Centre (EC-JRC), Geel
+2ZZZISP 2ITY EC Joint Research Center (EC-JRC), Ispra
+2ZZZITU 2GER EC Joint Research Centre (EC-JRC), Karlsruhe
+2ZZZNDC 2FR  NEA Data Bank, Paris
+2ZZZNEA 2FR  OECD Nuclear Energy Agency (NEA)
+3ZZZTPT 2ITY Intern.Centre for Theoretical Physics, Trieste
+3ZZZIAE 2AUS IAEA, Vienna
+3ZZZMO  2MCO Int.Lab.of Marine Radioactivity
+3ZZZUN  1USA U.N. Organizations
+2ZZZCER 2SWT CERN, Geneva
+4ZZZDUB 4RUS Joint Institute for Nuclear Research (JINR), Dubna
